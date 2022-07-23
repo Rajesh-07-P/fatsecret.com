@@ -211,6 +211,105 @@ img{
     
 }
 #green1 #black{
-    border: 1px solid red;
+    border: 0px solid red;
     color: black;
+}
+#toolscont{
+    width: 80%;
+    border: 0px solid red;
+}
+.toolsinnercont{
+    display: inline-block;
+    margin-right: 40px;
+    width:45%;
+    border:0px solid red;
+    color: black;
+    font-weight: 600;
+}
+.toolsinnercont img{
+    vertical-align: text-bottom;
+}
+.toolsinnercont p{
+    display: inline-block;
+    width: 80%;
+}
+#bottomimage>#image2.blueimage{
+    background-color: #93ADD2;
+}
+#blue{
+    background-color: #93ADD2;
+    color: white;
+}
+#bluemain{
+    width:70%;
+    margin: auto;
+}
+#bluecont{
+    margin: auto;
+}
+#bluecont>h1{
+    padding-top: 50px;
+}
+#bluecont>p{
+    font-size: 21px;
+    line-height: 35px;
+    width: 55%;
+}
+#bluemain img{
+    vertical-align: middle;
+}
+#bluemain img+p{
+    display: inline-block;
+    font-size: 21px;
+}
+#blueimg{
+    margin-top: 40px;
+}
+#blueimg img{
+    width: 170px;
+    margin-left: 0px;
+}
+#sideimg{
+    display: inline-block;
+}
+#sideimg img{
+    margin-left: 550px;
+    width: 420px;
+    margin-top: -330px;
+}
+#black{
+    background-color: #111;
+    color: white;
+}
+#blacktable{
+    margin-top: -57px;
+    margin-bottom: -29px;
+}
+#blackmain{
+    width:71%;
+    margin:auto;
+    padding-top: 50px;
+}
+#black p{
+    font-size: 21px;
+}
+#blackmain>div{
+    display: inline-block;
+}
+#blackmain>div+div{
+    vertical-align:middle;
+    padding-left: 200px;
+    margin-bottom: 50px;
+}
+#white1{
+    background-color: #EDF1E9;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#white1 p{
+    font-weight:bold;
+}
+#white1 p~img{
+    margin-left: 20px;
 }
