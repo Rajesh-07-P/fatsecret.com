@@ -71,19 +71,21 @@ h1+img{
     border:0px solid red;
     margin-top: 35px;
     width:380px;
+    font-size: 14px;
 }
 #facebook{
     border: 0px solid red;
     margin-bottom: 20px;
-    line-height: 30px;
+    line-height: 40px;
     background-color: #3766B8;
     padding-top: 5px;
 }
 #facebook>img{
     border: 0px solid red;
-    width:7%;
-    margin-left: 5px;
+    width:9%;
+    margin-left: 3px;
     margin-right: 70px;
+    padding-bottom: 4px;
 }
 #google{
     border:0px solid red;
@@ -93,6 +95,7 @@ h1+img{
 }
 #google>img{
     margin-right: 70px;
+    margin-left: 3px;
 }
 div>span{
     vertical-align: top;
@@ -283,7 +286,7 @@ img{
 }
 #blacktable{
     margin-top: -57px;
-    margin-bottom: -29px;
+    margin-bottom: -30px;
 }
 #blackmain{
     width:71%;
@@ -312,4 +315,56 @@ img{
 }
 #white1 p~img{
     margin-left: 20px;
+}
+#grey{
+    background-color: #333;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#ionicons>div{
+    display: inline-block;
+    margin-left:40px;
+    border-radius: 50%;
+}
+#icon{
+    height: 50px;
+    width:50px;
+    margin: -10px;
+}
+#contact{
+    margin-top: 30px;
+}
+#contact>a{
+    margin-left: 30px;
+}
+#about{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+    margin-top: 25px;
+}
+#about>a{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0px 4px;
+}
+#about>span{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0px 4px;
+}
+#green3{
+    background-color: #32B34C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+#green3>div{
+    display: inline-block;
+    margin-left: 400px;
+}
+#green3 span{
+    vertical-align: super;
 }

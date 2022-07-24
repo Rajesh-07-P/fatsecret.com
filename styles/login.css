@@ -1,0 +1,223 @@
+body{
+    margin:0px;
+    font-family: Helvetica,Arial;
+}
+#topsign{
+    background-color: #32B34C;
+    color: white;
+    text-align: end;
+    padding-right: 200px;
+}
+#top{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 28px;
+    font-size: 12px;
+}
+#top a{
+    border: 0px;
+}
+#searchcont{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #EDF1E9;
+}
+#searchinner{
+
+    width:80%;
+    margin: auto;
+}
+#searchcont p{
+    font-size: 14px;
+    color: #32B34C;
+    margin-top: -5px;
+    margin-left: 175px;
+}
+#bar{
+    background-color: #EDF1E9;
+    border: 1px solid rgb(180, 180, 180);
+    border-bottom: 0px;
+}
+#bar div{
+    display: inline-block;
+    border: 1px solid rgb(180, 180, 180);
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Helvetica, Arial;
+    color: rgb(167, 167, 167);
+    padding: 5px 50px;
+}
+#bar div:nth-child(1){
+    width: 40px;
+    border: 0px;
+    height: auto;
+}
+#bar div:nth-child(2){
+    background-color: white;
+    color: black;
+}
+hr{
+    color: blueviolet;
+}
+#login{
+    width: 70%;
+    margin: auto;
+    border: 1px solid rgb(205, 203, 203);
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#logininner{
+    width:40%;
+    margin: auto;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+#social{
+    border:0px solid red;
+    margin-top: 35px;
+    width:380px;
+    font-size: 14px;
+}
+#facebook{
+    border: 0px solid red;
+    margin-bottom: 20px;
+    line-height: 20px;
+    background-color: #3766B8;
+    padding-top: 5px;
+    color: white;    
+}
+#facebook>img{
+    border: 0px solid red;
+    width:9%;
+    margin-left: 3px;
+    margin-right: 70px;
+    padding-bottom: 4px;
+}
+#google{
+    border:0px solid red;
+    line-height: 40px;
+    height:39px;
+    background-color: #4285F4;
+    color: white;
+}
+#google>img{
+    margin-right: 70px;
+    margin-left: 3px;
+}
+div>span{
+    vertical-align: top;
+}
+#email{
+    border:0px solid red;
+    line-height: 20px;
+}
+#email>input,button{
+    padding-left: 5px;
+    font-size: 20px;
+    line-height: 40px;
+    width: 182px;
+}
+#email>button{
+    color: white;
+    border: 1px solid #336F3F;
+    background-color: #32B34C;
+}
+#email p{
+    text-align: center;
+    font-size: 16px;
+    opacity: 60%;
+}
+#email #name{
+    width: 370px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+#email a{
+    color: blue;
+    text-decoration: none;
+    font-size: 14px;
+}
+#email h1{
+    margin-top: 40px;
+    opacity: 50%;
+    text-align: center;
+}
+#email h3{
+    margin-top: -10px;
+    opacity: 50%;
+    text-align: center;
+}
+#email h3 a{
+    font-weight: bold;
+    opacity: 100%;
+}
+#white1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#white1 p{
+    font-weight:bold;
+}
+#white1 p~img{
+    margin-left: 20px;
+}
+#grey{
+    background-color: #333;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#ionicons>div{
+    display: inline-block;
+    margin-left:40px;
+    border-radius: 50%;
+}
+#icon{
+    height: 50px;
+    width:50px;
+    margin: -10px;
+}
+#contact{
+    margin-top: 30px;
+}
+#contact>a{
+    margin-left: 30px;
+    color: white;
+    text-decoration: none;
+}
+#about{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+    margin-top: 25px;
+}
+#about>a{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0px 4px;
+}
+#about>span{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0px 4px;
+}
+#green3{
+    background-color: #32B34C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+#green3>div{
+    display: inline-block;
+    text-align: center;
+    margin-left: 400px;
+}
+#green3 span{
+    vertical-align:super;
+}
