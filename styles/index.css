@@ -115,6 +115,10 @@ div>span{
     border: 1px solid #336F3F;
     background-color: #32B34C;
 }
+#email a{
+    color: #4285F4;
+    font-weight: bold;
+}
 h3{
     border:1px solid red;
 }

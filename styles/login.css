@@ -60,6 +60,9 @@ body{
     background-color: white;
     color: black;
 }
+#bar a{
+    text-decoration: none;
+}
 hr{
     color: blueviolet;
 }
