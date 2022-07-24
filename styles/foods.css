@@ -1,0 +1,205 @@
+body{
+    margin:0px;
+    font-family: Helvetica,Arial;
+}
+#topsign{
+    background-color: #32B34C;
+    color: white;
+    text-align: end;
+    padding-right: 200px;
+}
+#top{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 28px;
+    font-size: 12px;
+}
+#top a{
+    border: 0px;
+}
+#searchcont{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #EDF1E9;
+}
+#searchinner{
+
+    width:80%;
+    margin: auto;
+}
+#searchcont p{
+    font-size: 14px;
+    color: #32B34C;
+    margin-top: -5px;
+    margin-left: 175px;
+}
+#bar{
+    background-color: #EDF1E9;
+    border: 1px solid rgb(180, 180, 180);
+    border-bottom: 0px;
+}
+#bar div{
+    display: inline-block;
+    border: 1px solid rgb(180, 180, 180);
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Helvetica, Arial;
+    color: rgb(167, 167, 167);
+    padding: 5px 50px;
+}
+#bar div:nth-child(1){
+    width: 40px;
+    border: 0px;
+    height: auto;
+}
+#bar div:nth-child(3){
+    background-color: white;
+    color: black;
+}
+hr{
+    color: blueviolet;
+}
+#home{
+    margin-left: 145px;
+    color: grey;
+}
+#midsection{
+    border: 0px solid red;
+}
+#midtop{
+    width: 52%;
+    border: 0px solid red;
+    margin-left: 145px;
+    display: inline-block;
+}
+#foodsearch{
+    display: inline-block;
+    background-color: #EDF1E9;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding: 20px;
+}
+#foodsearch img{
+    vertical-align: middle;
+}
+#foodsearch+h3{
+    margin-left: 145px;
+}
+#midtop{
+    border: 5px solid #32B34C;
+}
+#midtop img{
+    width:120px;
+    height: 100px;
+    vertical-align: top;
+}
+#midtop div{
+    display: inline-block;
+    opacity: 70%;
+}
+#midtop+h3{
+    opacity: 80%;
+    margin-bottom: 10px;
+}
+#foodsection{
+    width: 52%;
+    margin-left: 145px;
+    border: 0px solid red;
+    margin-bottom: 20px;
+}
+#foodsection hr{
+    opacity: 50%;
+}
+#fooddiv{
+    display: inline-block;
+    width:48%;
+}
+#foodinfo{
+    display: inline-block;
+    width: 70%;
+    text-align: justify;
+}
+#foodinfo a{
+    text-decoration: none;
+}
+#foodinfo p{
+    font-size: 12px;
+    margin-top: -18px;
+    margin-bottom: -5px;
+    margin-left: 0px;
+}
+#list a{
+    color: #028CC4;
+    text-decoration: none;
+    font-size: 14px;
+}
+#white1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#white1 p{
+    font-weight:bold;
+}
+#white1 p~img{
+    margin-left: 20px;
+}
+#grey{
+    background-color: #333;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#ionicons>div{
+    display: inline-block;
+    margin-left:40px;
+    border-radius: 50%;
+}
+#icon{
+    height: 50px;
+    width:50px;
+    margin: -10px;
+}
+#contact{
+    margin-top: 30px;
+}
+#contact>a{
+    margin-left: 30px;
+    color: white;
+    text-decoration: none;
+}
+#about{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+    margin-top: 25px;
+}
+#about>a{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0px 4px;
+}
+#about>span{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0px 4px;
+}
+#green3{
+    background-color: #32B34C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+#green3>div{
+    display: inline-block;
+    text-align: center;
+    margin-left: 400px;
+}
+#green3 span{
+    vertical-align:super;
+}
